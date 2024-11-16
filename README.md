@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajini Meddawela</h1>
 <h3 align="center">Motivated and forward-thinking undergraduate student pursuing a degree in information technology with a strong foundation in technical skills.</h3>
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajini-meddawela&label=Profile%20views&color=0e75b6&style=flat" alt="sajini-meddawela" /> </p>
 
 - 🔭 **I’m an Undergraduate** Balancing the art of debugging code and debugging my life, all while mastering the fine craft of last-minute submissions.
